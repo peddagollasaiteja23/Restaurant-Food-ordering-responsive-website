@@ -1,0 +1,7 @@
+$primary-color: #d0b200;
+
+.custom-button {
+  color: white;
+  background: linear-gradient($primary-color, darken($primary-color, 10%));
+  border-radius: 8px;
+}
